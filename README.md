@@ -1,4 +1,4 @@
-# unique-territorial-codes
+# Chile - Unique Territorial Codes
 
 A simple bottle micro-service to get the Unique Territorial Codes of Chile
 
